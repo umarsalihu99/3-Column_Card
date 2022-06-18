@@ -43,9 +43,9 @@ a:hover {
     border: 2px solid var(--Very-light-gray);
 }
 
-body {
-    min-height: 100vh;
+body .container {
     max-width: 1440px;
+    min-height: 100vh;
     width: 100%;
     display: flex;
     align-items: center;
@@ -53,6 +53,17 @@ body {
     font-size: 15px;
     font-family: var(--Main-font);
     background-color: var(--Very-light-gray);
+}
+
+body .link {
+    display: block;
+    position: absolute;
+    top: 1.5rem;
+    left: 13rem;
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    color: rgb(254, 0, 0);
 }
 
 body .content {
