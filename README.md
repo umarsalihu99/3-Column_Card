@@ -1,6 +1,6 @@
-# 3-Column_Card
+# 3-Column Card With Grid LayOut
  
-ZURI Training Tast
+This is one of ZURI Training Tasks
 
 Built using HTML and CSS
 
